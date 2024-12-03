@@ -3,14 +3,10 @@
 ## Overview
 This document is a central place for important CU DAO information. It includes details about governance processes, UNA (legal structure) information, and code repositories.
 
-
 ## Governance Process
 Listed below is a link to the CU DAO Guiding Principles that outlines processes pertaining to governance council election & responsibilities, steps needed to take a draft proposal to snapshot, etc.
 
 Crypto Unicorns DAO Guiding Principles - [Open Access](https://forum.cryptounicorns.fun/t/crypto-unicorns-dao-guiding-principles/6088/2)
-
-## Multi-Sig Nomination
-Information on how to qualify and apply to become a multi-signature (multi-sig) signer will be included here.
 
 ## UNA Information
 As the Crypto Unicorns DAO transitions to full community governance, we want to provide a brief explainer on the Unincorporated Nonprofit Association (UNA) structure that serves as the “legal wrapper” for the CU DAO.
